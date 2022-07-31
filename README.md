@@ -10,4 +10,6 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-1C1C1C?style=for-the-badge&logo=PYTHON&logoColor=3A5FCD)
 ![AGILE](https://img.shields.io/badge/-AGILE/SCRUM-1C1C1C?style=for-the-badge&logo=&logoColor=3A5FCD)
 
-Follow me
+### Follow me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1C1C1C?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://vk.com/easystill)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-1C1C1C?style=for-the-badge&logo=TELEGRAM&logoColor=1E90FF)](https://t.me/Kemfis)
