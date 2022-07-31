@@ -1,4 +1,4 @@
-[![Header](https://github.com/kemfis/kemfis/blob/main/assets/1.jpg)]
+![Header](https://github.com/kemfis/kemfis/blob/main/assets/1.jpg)
 
 About me
 
